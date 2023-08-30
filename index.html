@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png"> 
+  <title>Frontend Mentor | Stats preview card component</title>
+  <link rel="stylesheet" href="./reset.css">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <main>
+    <div class="wrapper">
+      <div class="card-container">
+        <div class="card d-flex">
+          <div class="card-content">
+            <h1 class="card-heading fs-700">Get <span class="clr-accent">insights</span> that<br class="sp"> help your business grow.</h1>
+            <p class="main-paragraph">Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency.</p>
+            <div class="stats-container d-flex">
+              <div class="stats">
+                <span class="stats-count fs-600 fw-bold">10k+</span>
+                <h2 class="stats-category txt-upper ff-primary fs-300 fw-thin">companies</h2>
+              </div>
+              <div class="stats">
+                <span class="stats-count fs-600 fw-bold">314</span>
+                <h2 class="stats-category txt-upper ff-primary fs-300 fw-thin">templates</h2>
+              </div>
+              <div class="stats">
+                <span class="stats-count fs-600 fw-bold">12M+</span>
+                <h2 class="stats-category txt-upper ff-primary fs-300 fw-thin">queries</h2>
+              </div>
+            </div>
+          </div>
+          <div class="card-img">
+            <picture>
+              <source media="(max-width: 1099px)" srcset="./images/image-header-mobile.jpg">
+              <source media="(min-width: 1100px)" srcset="./images/image-header-desktop.jpg">
+              <img src="./images/image-header-desktop.jpg" alt="Three ladies working in the office">
+            </picture>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+</body>
+</html>
