@@ -34,12 +34,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click to check my solution at Frontend Mentor]()
-- Live Site URL: [Click to check the live site]()
+- Solution URL: [Click to check my solution at Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-perfect-solution-GI-Di54Mr7)
+- Live Site URL: [Click to check the live site](https://cgm-thanhtike.github.io/Stats-preview-card-component/)
 
 ## My process
 
-- I'm pretty comfortable with this challenge. I analyze both the desktop and mobile design first. And, decided the best and simpliest approach to get the same design. And this is what I got.
+- I'm quite comfortable with this challenge. I first analyze both the desktop and mobile designs and then decide on the best and simplest approach to achieve the same design. Here is what I have come up with.
 
 ### Built with
 
